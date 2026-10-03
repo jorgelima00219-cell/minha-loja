@@ -1,0 +1,10 @@
+{
+  "name": "Minha Loja",
+  "short_name": "Minha Loja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#222222",
+  "lang": "pt-BR",
+  "description": "Sistema de vendas, caixa, fiado e estoque da Minha Loja."
+}
